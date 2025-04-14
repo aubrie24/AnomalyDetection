@@ -1,0 +1,11 @@
+[Train Set Evaluation - Isolation Forest]
+AUC: 0.5986
+Average Precision: 0.0590
+F1 Score: 0.0913
+
+[Dev Set Evaluation - Isolation Forest]
+AUC: 0.5983
+Average Precision: 0.0591
+F1 Score: 0.0727
+Train Time: 0.9018919467926025
+Predict Time: 0.16236257553100586

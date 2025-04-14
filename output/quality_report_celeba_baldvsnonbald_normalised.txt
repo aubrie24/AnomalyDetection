@@ -1,0 +1,145 @@
+Quality Report:
+
+Number of columns: 40
+Number of rows: 202599
+
+Duplicate rows: 87484
+
+Number of rows with missing values: 0
+Columns that have missing values: []
+Number of columns with missing values: 0
+
+Missing values per column:
+A0       0
+A1       0
+A2       0
+A3       0
+A4       0
+A5       0
+A6       0
+A7       0
+A8       0
+A9       0
+A10      0
+A11      0
+A12      0
+A13      0
+A14      0
+A15      0
+A16      0
+A17      0
+A18      0
+A19      0
+A20      0
+A21      0
+A22      0
+A23      0
+A24      0
+A25      0
+A26      0
+A27      0
+A28      0
+A29      0
+A30      0
+A31      0
+A32      0
+A33      0
+A34      0
+A35      0
+A36      0
+A37      0
+A38      0
+class    0
+
+Data types of columns:
+A0       object
+A1       object
+A2       object
+A3       object
+A4       object
+A5       object
+A6       object
+A7       object
+A8       object
+A9       object
+A10      object
+A11      object
+A12      object
+A13      object
+A14      object
+A15      object
+A16      object
+A17      object
+A18      object
+A19      object
+A20      object
+A21      object
+A22      object
+A23      object
+A24      object
+A25      object
+A26      object
+A27      object
+A28      object
+A29      object
+A30      object
+A31      object
+A32      object
+A33      object
+A34      object
+A35      object
+A36      object
+A37      object
+A38      object
+class    object
+
+Unique values for categorical columns:
+A0 ['1' '0']
+A1 ['1' '0']
+A2 ['0' '1']
+A3 ['1' '0']
+A4 ['1' '0']
+A5 ['0' '1']
+A6 ['1' '0']
+A7 ['1' '0']
+A8 ['1' '0']
+A9 ['1' '0']
+A10 ['1' '0']
+A11 ['1' '0']
+A12 ['1' '0']
+A13 ['1' '0']
+A14 ['1' '0']
+A15 ['1' '0']
+A16 ['1' '0']
+A17 ['1' '0']
+A18 ['0' '1']
+A19 ['1' '0']
+A20 ['0' '1']
+A21 ['1' '0']
+A22 ['1' '0']
+A23 ['0' '1']
+A24 ['1' '0']
+A25 ['1' '0']
+A26 ['1' '0']
+A27 ['1' '0']
+A28 ['1' '0']
+A29 ['1' '0']
+A30 ['0' '1']
+A31 ['1' '0']
+A32 ['1' '0']
+A33 ['0' '1']
+A34 ['1' '0']
+A35 ['0' '1']
+A36 ['1' '0']
+A37 ['1' '0']
+A38 ['0' '1']
+class ['0' '1']
+Warning: Target column 'class' is not numeric or missing from data.
+
+Error during OneHotEncoding: 'class'
+
+Counts for each class in the target variable.
+class
+0    198052
+1      4547
+Name: count, dtype: int64

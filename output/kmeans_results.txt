@@ -1,0 +1,12 @@
+Best k: 4
+[Train Set Evaluation - KMeans Clustering]
+AUC: 0.5480
+Average Precision: 0.0494
+F1 Score: 0.0826
+
+[Dev Set Evaluation - KMeans Clustering]
+AUC: 0.5552
+Average Precision: 0.0506
+F1 Score: 0.0695
+Train Time: 1.3649075031280518
+Predict Time: 0.014645814895629883

@@ -1,0 +1,12 @@
+
+[Train Set Evaluation]
+AUC: 0.9579
+Average Precision: 0.3761
+F1 Score: 0.3858
+Train Time: 402.4679250717163
+Predict Time: 2.016386032104492
+
+
+[Dev Set Evaluation]AUC: 0.9588
+Average Precision: 0.3975
+F1 Score: 0.3966

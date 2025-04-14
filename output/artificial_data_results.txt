@@ -1,0 +1,5 @@
+
+[Evaluation on Artificial Data]
+AUC-ROC: 0.3936
+Average Precision: 0.0161
+F1 Score: 0.0000
