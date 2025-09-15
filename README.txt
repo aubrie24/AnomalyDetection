@@ -1,4 +1,4 @@
-How to Run 'assignment_6.py'
+How to Run 'anomaly_detection.py'
 
 1. Create and activate a virtual environment (optional):
 
